@@ -28,3 +28,6 @@ Provide a clear, beginner-friendly foundation for building on-chain minting func
 - Add front-end UI for minting and viewing tokens
 
 contract address : 0x5a8DDB38cD2e4a4B103e7Ee224768D63dD021De3
+
+
+<img width="1918" height="989" alt="image" src="https://github.com/user-attachments/assets/ab0622da-e4c7-4325-93f1-19e1ee5a49c2" />
