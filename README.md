@@ -26,3 +26,5 @@ Provide a clear, beginner-friendly foundation for building on-chain minting func
 - Integrate on-chain metadata and off-chain storage (IPFS)
 - Add unit tests (Hardhat/Foundry) and deployment scripts
 - Add front-end UI for minting and viewing tokens
+
+contract address : 0x5a8DDB38cD2e4a4B103e7Ee224768D63dD021De3
